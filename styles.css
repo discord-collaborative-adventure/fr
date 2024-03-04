@@ -132,7 +132,7 @@ h1 {
         flex-direction: column;
     }
 
-    .about, .images {
+    .about, .images, .image-section {
         width: 100%;
         text-align: center;
     }
