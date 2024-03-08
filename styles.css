@@ -98,7 +98,7 @@ h1 {
     border-radius: 10px; /* Bord arrondi */
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 600px) {
     .image-section {
         flex-direction: column;
     }
