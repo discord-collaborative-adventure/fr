@@ -2,7 +2,7 @@ body {
     margin: 0;
     padding: 0;
     font-family: Arial, sans-serif;
-    background-image: url('https://discord-collaborative-adventure.github.io/fr/background.png');
+    background-image: url('CatBot-discord.png');
     background-size: cover;
     background-attachment: fixed; /* Ne pas fixer le fond pour les appareils mobiles */
 }
